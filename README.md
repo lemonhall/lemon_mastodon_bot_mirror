@@ -1,3 +1,6 @@
+长毛象机器人例子
+=============
+
 ### 启一个新环境
 conda create --name lemon_mastodon_bot python=3.8 --channel https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
 
